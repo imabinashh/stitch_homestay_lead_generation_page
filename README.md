@@ -5,7 +5,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-16.3-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8?logo=tailwind-css)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -134,55 +133,3 @@ the-banyan-courtyard/
 ├── tsconfig.json
 └── README.md
 ```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18.18+ or 20+
-- npm, pnpm, or yarn
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/imabinashh/stitch_homestay_lead_generation_page.git
-   cd stitch_homestay_lead_generation_page
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the local development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. **View in browser:**
-   Open [http://localhost:3000](http://localhost:3000) to explore the live application.
-
-5. **Build for production:**
-   ```bash
-   npm run build
-   ```
-
----
-
-## 🌐 Deploy to Vercel (Recommended)
-
-The smoothest way to deploy this Next.js App Router application is on **[Vercel](https://vercel.com/)**:
-
-1. Push your repository to GitHub.
-2. Go to **[vercel.com](https://vercel.com)** and log in with your GitHub account.
-3. Click **"New Project"** and select this repository.
-4. Keep the default settings (Next.js is automatically detected).
-5. Click **"Deploy"**. Your live production site will be ready in under 60 seconds!
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
